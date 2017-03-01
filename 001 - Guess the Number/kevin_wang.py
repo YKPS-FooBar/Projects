@@ -1,4 +1,4 @@
-A=int(input(enter a number you want other to guess(only a number):))
+A=int("input(enter a number you want other to guess(only a number):"))
 print("welcome to the 'guess the number'game!!!\n \n \n ")
 A_1=int(input("please enter a guess(only a number):"))
 while 1==1:
