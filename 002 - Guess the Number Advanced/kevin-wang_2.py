@@ -10,10 +10,10 @@ for chance in range(times):
             print("well done!!!\n \n \nYou get the answer!")
             break
         if A_1 < A:
-            print("\n \nHigher\n \n \nYou have",times-chance,"chances left \n \n")
+            print("\n \nGuess Higher\n \n \nYou have",times-chance,"chances left \n \n")
             A_1=int(input("please enter a guess(only a number):"))
         if A_1 > A:
-            print("\n \nLower\n \n \nYou have",times-chance,"times chances \n \n")
+            print("\n \nGuess Lower\n \n \nYou have",times-chance,"times chances \n \n")
             A_1=int(input("please enter a guess(only a number):"))
 else:
     print("\n \n \nSorry,you out of chances\n \n \n")
