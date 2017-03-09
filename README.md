@@ -23,6 +23,6 @@ All projects by the members of the Foo Bar.
 * Learn basic usage of lists (indexing, appending elements)
 * Continue building knowledge and experience on variables and loops
 
-### [[003] nth Fibonacci](https://github.com/YKPS-FooBar/Projects/tree/master/004%20-%20Which%20Fibonacci)
+### [[004] Which Fibonacci](https://github.com/YKPS-FooBar/Projects/tree/master/004%20-%20Which%20Fibonacci)
 * Continue building knowledge and experience on variables and loops
 * Getting into more algorithmically-complicated problems
