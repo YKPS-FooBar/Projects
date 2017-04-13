@@ -26,3 +26,6 @@ All projects by the members of the Foo Bar.
 ### [[004] Which Fibonacci](https://github.com/YKPS-FooBar/Projects/tree/master/004%20-%20Which%20Fibonacci)
 * Continue building knowledge and experience on variables and loops
 * Getting into more algorithmically-complicated problems
+
+### [[005] Magic Backpack](https://github.com/YKPS-FooBar/Projects/tree/master/005%20-%20Magic%20Backpack)
+* Understanding the basic concept and operations of a list
