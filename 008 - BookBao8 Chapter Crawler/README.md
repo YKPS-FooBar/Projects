@@ -1,4 +1,4 @@
-# 008 - BookBao 8 Crawler
+# 008 - BookBao8 Chapter Crawler
 
 Using the `requests` and `bs4` modules.
 
