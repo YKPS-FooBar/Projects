@@ -1,3 +1,9 @@
+
+
+### WHY R U USING TKINTER IN A SIMPLE BASE CONVERTER
+### MACLEON: THATS NOT WUT THE TEST WANT TO TEST U ON
+
+
 #程序概要:
 #  本程序包含五个主要方法，分别为:
 #    - isvalid: 返回一个数字是否是合法的给定进制数
